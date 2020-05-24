@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#1f1f2e</color>
+    <color name="colorAccent">#D81B60</color>
+    // ui Mains
+    <color name="background_dark">#3D3E5C</color>
+    <color name="blue_button">#1f1f2e</color>
+    <color name="otp_line">#8586ae</color>
+    <color name="Error">#ff4500</color>
+    // BottomNav Color
+    <color name="bottomNav_bg">#3E4164</color>
+    <color name="bottomNav_itemNotSelected">#6B6D93</color>
+    <color name="bottomNav_itemSelected">#9375E7</color>
+
+    // Chat Screen Color
+    <color name="Chat_bg">#434462</color>
+</resources>

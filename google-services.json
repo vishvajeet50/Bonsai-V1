@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111171837533",
+    "firebase_url": "https://bonsai-cecd5.firebaseio.com",
+    "project_id": "bonsai-cecd5",
+    "storage_bucket": "bonsai-cecd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111171837533:android:2705d9a42277102407b7b4",
+        "android_client_info": {
+          "package_name": "com.vishvajeet.bonsai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111171837533-e1cg2k7gfa3c25buq1l8uaf914d0bcah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishvajeet.bonsai",
+            "certificate_hash": "a804e29029dcd65a39f0eb09c811ed85bfd851c4"
+          }
+        },
+        {
+          "client_id": "111171837533-69igaphn3up1h2r040oa0a67j17ata00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfK_iH2VYGQtUx-G7Qf2KQxnOFqjjX0cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111171837533-69igaphn3up1h2r040oa0a67j17ata00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
